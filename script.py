@@ -5,7 +5,8 @@ TOKEN= "8613606617:AAHm-Em3GMVyF_FUgKc6Bi5Pf8EnuMGXmE8"
 
 
 # رقم معرف المستخدم الخاص بك (Chat ID) لتستقبل الرسالة عليه، أو يمكنك استبداله بمعرف الدردشة الخاص بك
-CHAT_ID = "ضع_معرف_الدردشة_هنا"
+CHAT_ID = "8458220190"
+
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
