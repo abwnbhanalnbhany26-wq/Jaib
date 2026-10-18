@@ -1,7 +1,8 @@
 import requests
 
 # ضع رمز التفعيل الخاص بك هنا تماماً كما وصلك من BotFather
-TOKEN = "8613606617:AAHm-Em3GMVyF_FUgKc6Bi5Pf8EnuMGXmE8[span_0](start_span)"[span_0](end_span)
+TOKEN= "8613606617:AAHm-Em3GMVyF_FUgKc6Bi5Pf8EnuMGXmE8"
+
 
 # رقم معرف المستخدم الخاص بك (Chat ID) لتستقبل الرسالة عليه، أو يمكنك استبداله بمعرف الدردشة الخاص بك
 CHAT_ID = "ضع_معرف_الدردشة_هنا"
